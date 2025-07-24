@@ -37,7 +37,7 @@ The Employee Leave Management System (ELMS) is a comprehensive web application d
 ## Installation
 1. Clone the repository:
    ```bash
-  git clone https://github.com/Hemalatha24574/flipkart_project/blob/main/Leave_Management_System.pdf
+  git clone https://github.com/Hemalatha24574/flipkart_project.git
 cd leave-management-system
    ```
 
