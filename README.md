@@ -137,32 +137,32 @@ leave-management-system/
 ## Screenshots
 
 - ### Login Page
-<img width="1919" height="957" alt="Login_Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/login.png?raw=true"/>
+<img width="1600" height="700" alt="Login_Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/login.png?raw=true"/>
 
 - ### Admin_Dashboard
-<img width="1919" height="957" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/admin_dashboard.png?raw=true"/>
+<img width="1600" height="700" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/admin_dashboard.png?raw=true"/>
 
 - ### Admin_Profile
-<img width="1911" height="969" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/admin_profile.png?raw=true" />
+<img width="1600" height="700" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/admin_profile.png?raw=true" />
 
 - ### Admin_Reports
-<img width="1911" height="969" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/admin_reports.png?raw=true"/>
+<img width="1600" height="700" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/admin_reports.png?raw=true"/>
 
 
 - ### Manager Dashboard
-<img width="1908" height="952" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/manager_dashboard.png?raw=true" />
+<img width="1600" height="700" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/manager_dashboard.png?raw=true" />
 
 - ### Manager_Reports
-  <img width="1908" height="952" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/manager_reports.png?raw=true"/>
+  <img width="1600" height="700" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/manager_reports.png?raw=true"/>
 
  - ### Employee Dashboard
-  <img width="1908" height="952" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/employee_dashboard.png?raw=true"/>
+  <img width="1600" height="700" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/employee_dashboard.png?raw=true"/>
 
 - ### Employee Profile
-  <img width="1908" height="952" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/employee_profile.png?raw=true"/>
+  <img width="1600" height="700" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/employee_profile.png?raw=true"/>
 
 - ### Employee Leave_Request
-    <img width="1908" height="952" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/employee_leave_request.png?raw=true"/>
+    <img width="1600" height="700" alt="Image" src="https://github.com/Hemalatha24574/flipkart_project/blob/main/employee_leave_request.png?raw=true"/>
 
     -----
 
