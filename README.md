@@ -185,4 +185,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 ## Contact
-For questions or support, please contact the project maintainer at hemalatha@example.com
+For questions or support, please contact the project maintainer at pabbu.hemalatha24@gmail.com
